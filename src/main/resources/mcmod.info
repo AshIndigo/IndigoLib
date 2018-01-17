@@ -1,0 +1,16 @@
+[
+{
+  "modid": "indigoutils",
+  "name": "Indigo Utils",
+  "description": "Library for my mods",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["AshIndigo"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
